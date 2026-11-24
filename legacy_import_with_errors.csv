@@ -1,0 +1,13 @@
+name,category,distance_km,travel_time_min,stay_time_min,priority,status,notes
+Nagpur Orange Market,food,280,300,30,3,planned,Good for citrus
+Wardha Fuel Point,fuel,75,70,10,4,planned,
+,rest,40,40,15,2,planned,blank name
+Butibori Dhaba,food,abc,60,30,3,planned,distance is not a number
+Hotel Pench View,hotel,110,100,600,9,planned,priority out of range
+Ramtek Temple,sightseeing,-5,30,45,3,planned,negative distance
+Seoni Rest Stop,spa,90,85,15,2,planned,unknown category
+Wardha Fuel Point,fuel,10,12,10,3,planned,duplicate name
+Pench Tiger Reserve,sightseeing,95,110,180,5,planned,Book safari in advance
+Jabalpur Hotel,hotel,200,190,600,4,done,invalid status
+Katni Chai Stop,food,90,,20,2,planned,travel time blank so it is estimated
+Sanchi Stupa,sightseeing,9999,500,60,3,planned,distance above limit

@@ -1,0 +1,42 @@
+id,name,category,distance_km,travel_time_min,stay_time_min,priority,status,notes
+1,Hyderabad Start Point,other,0.1,1,0,5,visited,
+2,Shamshabad Fuel Station,fuel,24.0,30,15,4,visited,"Fill tank, check tyre pressure"
+3,Jadcherla Highway Dhaba,food,70.0,65,40,3,visited,"Breakfast stop, popular with truckers"
+4,Kothakota Rest Area,rest,45.0,40,15,2,visited,
+5,Kurnool Fuel Pump,fuel,120.0,105,15,4,visited,NH44 toll ahead
+6,Kurnool Tungabhadra Viewpoint,sightseeing,15.0,20,30,5,skipped,Skipped due to traffic
+7,Gooty Fort,sightseeing,85.0,80,60,3,visited,"Hill fort, steep climb"
+8,Anantapur Tiffin Centre,food,72.0,65,30,3,visited,
+9,Penukonda Rest Stop,rest,70.0,60,15,2,visited,Clean restrooms
+10,Hindupur Fuel Point,fuel,45.0,40,10,4,visited,
+11,Lepakshi Temple,sightseeing,15.0,25,90,4,visited,"Nandi statue, book a guide"
+12,Devanahalli Coffee Plaza,food,60.0,70,30,3,planned,Airport road traffic
+13,Bengaluru Hotel Stay,hotel,38.0,75,720,5,planned,"Overnight stay, pre-booked"
+14,Bengaluru Palace,sightseeing,12.0,35,120,2,planned,
+15,Bengaluru Fuel Stop,fuel,15.0,25,10,3,planned,
+16,Electronic City Lunch,food,20.0,40,45,3,planned,Meet cousin
+17,Hosur Rest Area,rest,30.0,35,15,2,planned,
+18,Krishnagiri Fuel Station,fuel,50.0,45,10,4,planned,
+19,Vaniyambadi Biryani House,food,85.0,80,50,3,planned,Famous biryani
+20,Vellore Fort,sightseeing,70.0,75,75,3,planned,Closed on Mondays
+21,Vellore Rest Plaza,rest,10.0,20,15,1,skipped,
+22,Sriperumbudur Fuel Pump,fuel,95.0,90,10,4,planned,
+23,Chennai Marina Beach,sightseeing,42.0,70,90,5,planned,Sunset visit
+24,Chennai Hotel Stay,hotel,8.0,25,600,5,planned,Check-in after 2 PM
+25,Mahabalipuram Shore Temple,sightseeing,58.0,70,120,4,planned,"UNESCO site, carry cash"
+26,ECR Seafood Shack,food,35.0,40,45,3,planned,
+27,Pondicherry Promenade,sightseeing,65.0,75,90,3,planned,
+28,Pondicherry Fuel Stop,fuel,5.0,10,10,3,planned,
+29,Chidambaram Nataraja Temple,sightseeing,70.0,80,60,3,planned,Dress code applies
+30,Thanjavur Big Temple,sightseeing,120.0,140,90,5,planned,
+31,Thanjavur Hotel Stay,hotel,4.0,10,600,4,planned,
+32,Trichy Rock Fort,sightseeing,58.0,70,90,3,planned,
+33,Trichy Fuel Pump,fuel,12.0,20,10,3,planned,
+34,Madurai Meenakshi Temple,sightseeing,155.0,170,120,5,planned,"Long drive, start early"
+35,Madurai Jigarthanda Break,food,3.0,10,20,1,planned,
+36,Kodaikanal Hill Detour,sightseeing,120.0,200,180,2,planned,"Ghat road, avoid night driving"
+37,Dindigul Rest Area,rest,95.0,150,15,2,planned,
+38,Coimbatore Marudhamalai,sightseeing,320.0,300,90,2,planned,Very long leg - needs a fuel stop
+39,Coimbatore Fuel Stop,fuel,8.0,15,10,4,planned,
+40,Ooty Tea Gardens,sightseeing,88.0,150,120,3,planned,Hairpin bends
+41,Highway Express Segment,other,260.0,90,10,2,planned,Time looks too short - check estimate
